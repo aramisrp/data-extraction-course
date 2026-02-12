@@ -166,8 +166,7 @@ Agora é com vocês. Preparei um notebook com quatro desafios. Um arquivo separa
 
 ---
 
-# Plano B (Avançado)
-*Se sobrar tempo...*
+# Parte 2 (Avançado)
 
 *   **Chunksize:** Ler arquivos gigantes em pedaços.
 *   **On Bad Lines:** Ignorar linhas quebradas (`error`, `skip`, `warn`).
