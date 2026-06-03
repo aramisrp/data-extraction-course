@@ -1,0 +1,12 @@
+name: 'meu_projeto_dbt'
+version: '1.0.0'
+config-version: 2
+
+profile: 'meu_perfil_snowflake'
+
+models:
+  meu_projeto_dbt:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

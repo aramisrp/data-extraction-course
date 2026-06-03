@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: RAW
+    schema: PUBLIC
+    tables:
+      - name: qualidade_agua_bruta

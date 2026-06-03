@@ -1,0 +1,14 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data and Databases
+*.db
+*.db-journal
+*.sqlite
+*.parquet
